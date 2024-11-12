@@ -1,0 +1,18 @@
+
+header {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav a {
+    display: inline-block;
+    padding: 1rem 1rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    color: blue;
+
+}
+    
