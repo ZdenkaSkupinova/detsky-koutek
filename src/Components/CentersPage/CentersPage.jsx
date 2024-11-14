@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import { NavLink, Outlet } from 'react-router-dom';
+import "./CentersPage.css"
 
 export const CentersPage = () => {
   const [centers, setCenters] = useState([]);
